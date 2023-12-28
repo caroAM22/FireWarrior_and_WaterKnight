@@ -1,4 +1,4 @@
-# FireKnight and WaterWarrior
+# FireWarrior and WaterKnight
 
 Welcome! Do you want to remember your childhood when you used to pass hours playing games on the internet? Here, you can have those memories again! FireKnight and WaterWarrior is a game inspired one of the most popular games of the old times on the internet, FireBoy and WaterGirl.
 
