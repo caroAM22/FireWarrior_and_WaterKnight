@@ -37,8 +37,8 @@ Haven't you decided to playing this game? [Click here!](https://www.youtube.com/
 - Catalina Restrepo Salgado: [CatalinaRpoS](https://github.com/CatalinaRpoS)
 - Tomás Rodríguez Taborda: [torodriguezt](https://github.com/torodriguezt)
 
-## Licencia
+## License
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+This project is licensed under the MIT License. Please refer to the [LICENSE](LICENSE) file for more details. Licencia
 
 ### Thank you! 
